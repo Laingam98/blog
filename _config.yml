@@ -1,0 +1,14 @@
+# --- Theme and Plugins ---
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme 
+
+# --- Site Settings ---
+title: Laingam's Embedded Systems & Edge AI Blog 
+description: "Code, Architecture, and Low-Power Design on STM32 and SimpleLink MCUs. Projects, tutorials, and insights from an Embedded Engineer."
+author: Laingam Laishram
+email: laingam.laishram.meetei@gmail.com 
+
+# --- Links (Optional but Recommended) ---
+github_username: Laingam98 
+linkedin_url: https://www.linkedin.com/in/laingam98
